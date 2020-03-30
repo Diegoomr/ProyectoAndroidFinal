@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#010723</color>
+    <color name="boton">#FF0000</color>
+    <color name="letras">#FFFFFF</color>
+    <color name="letras2">#FFD000</color>
+</resources>

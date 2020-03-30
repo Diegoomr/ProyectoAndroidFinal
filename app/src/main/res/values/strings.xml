@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="sandwiches">Sandwiches</string>
+    <string name="sobren">SOBRE NOSOTROS</string>
+
+    <string name= "compraex">COMPRA EXITOSA</string>
+    <string name= "infocompra">Estamos preparando tu pedido</string>
+    <string name= "volver">Volver al inicio</string>
+
+
+    <string name="chacarero">Chacarero</string>
+    <string name="italiano">Italiano</string>
+    <string name="barrosluco">Barros Luco</string>
+    <string name="barrosjarpa">Barros Jarpa</string>
+    <string name="vegetariano">Vegetariano</string>
+
+    <string name="ichacarero">Sandwich compuesto por ajíverde picado, lonjas de carne, porotos verdes cocidos fríos y tomates en rodajas.</string>
+    <string name="iitaliano">Sandwich compuesto por palta, tomate y mayonesa.</string>
+    <string name="ibarrosluco">Sandwich que lleva carne a la plancha y queso caliente.</string>
+    <string name="ibarrosjarpa">Sandwich que lleva queso fundido y jamón caliente.</string>
+    <string name="ivegetariano">Sandwich que lleva lechuga, tomate, cebolla y carne de soya.</string>
+
+    <string name="pchacarero">$3.000</string>
+    <string name="pitaliano">$2.500</string>
+    <string name="pbarrosluco">$2.500</string>
+    <string name="pbarrosjarpa">$2.000</string>
+    <string name="pvegatariano">$2.000</string>
+
+    <string name="imgch">chacareroimagen</string>
+    <string name="imgit">italianoimagen</string>
+    <string name="imgbl">barroslucoimagen</string>
+    <string name="imgbj">barrosjarpaimagen</string>
+    <string name="imgvg">vegetarianoimagen</string>
+
+    <string name="titulo">Titulo</string>
+    <string name="todo">TODO</string>
+    <string name="info">Info</string>
+    <string name="logocolor">logocolor</string>
+    <string name="logoblanco">logoblanco</string>
+
+    <string name="home">Burger Android 2020</string>
+    <string name="lista">Lista Sandwiches</string>
+    <string name="detalle">Información Sandwich</string>
+    <string name="sobrenos">Sobre Nosotros</string>
+    <string name="compra">Compra finalizada</string>
+
+    <string name="precio">precio</string>
+
+    <string name="infosobre">Somos una empresa con más de 10 años de experiencia realizando los mejores sandwiches, para todos los gustos. ¡Pide Ya! </string>
+    <string name="imgsobrenosotros">imgsobrenosotros</string>
+    <string name="sobrenosotros">SobreNosotros</string>
+    <string name="comprar">Comprar</string>
+    <string name="logofinal">logofinal</string>
+
+    <drawable name="fondo">@drawable/fondo</drawable>
+
+
+</resources>
